@@ -1,4 +1,4 @@
-- 👋 Hi, I’m EsraaAlzoghby
+- 👋 Hi, I’m Esraa Alzoghby
 - 👩‍💻 Front-End Developer | Engineering Graduate
 - 🎓 B.Sc. in Computer Engineering, Misr University
 - 🌱 Passionate about creating intuitive, user-friendly web interfaces. I seek opportunities to expand my skills and contribute to impactful projects.
