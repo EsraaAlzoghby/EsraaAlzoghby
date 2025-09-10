@@ -25,9 +25,12 @@
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/esraa-elzoghby/) 
 [![github](https://img.shields.io/badge/github-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/EsraaAlzoghby?tab=repositories)
 
----
 
-## Programming Languages & Tools
+
+<div align="left" style="border-bottom:none; margin-top:20px; margin-bottom:10px;">
+   <b style="font-size:20px">Programming Languages & Tools:</b>
+</div>
+<br/>
 <p align="left">
 
   <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank">
@@ -76,9 +79,10 @@
   </a>
 </p>
 
----
-
-## My Stats:
+<div align="left" style="border-bottom:none; margin-top:20px; margin-bottom:10px;">
+   <b style="font-size:20px">My Stats:</b>
+</div>
+<br/>
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=EsraaAlzoghby&theme=tokyonight-duo&hide_border=true&date_format=j%20M%5B%20Y%5D&card_width=500" alt="GitHub Streak"/>
 </p>
