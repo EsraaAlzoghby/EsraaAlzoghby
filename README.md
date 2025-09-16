@@ -79,18 +79,7 @@
   </a>
 </p>
 
-<div align="left" style="border-bottom:none; margin-top:20px; margin-bottom:10px;">
-   <b style="font-size:20px">My Stats:</b>
-</div>
-<br/>
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=EsraaAlzoghby&theme=tokyonight-duo&hide_border=true&date_format=j%20M%5B%20Y%5D&card_width=500" alt="GitHub Streak"/>
-</p>
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
-</div>
-<br>
 
 
 
